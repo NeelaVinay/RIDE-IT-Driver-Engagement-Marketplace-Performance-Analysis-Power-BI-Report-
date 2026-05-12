@@ -127,10 +127,8 @@ Completed Rides:       5,895,654  (23.2% offer-to-ride)
 | **Excel** | Data Cleaning, Power Query data prep |
 
 ---
+📁 Repository Structure
 
-## 📁 Repository Structure
-
-```
 ├── rideit_drivers.csv                          # 36,972 driver profiles
 ├── rideit_drivers_activity.csv                 # 1.8M daily activity rows
 ├── rideit_drivers_activity(Jan).xlsx           # Monthly activity split
@@ -139,7 +137,7 @@ Completed Rides:       5,895,654  (23.2% offer-to-ride)
 ├── rideit_drivers_activity(May-June).xlsx
 ├── RideIt_Data_Analysis_Report.pbix            # Power BI dashboard
 ├── sql/
-│   └── rideit_sql_analysis.sql                     # 10 SQL queries: funnel, segments, churn, scoring
+│   └── rideit_analysis.sql                     # 10 SQL queries: funnel, segments, churn, scoring
 └── README.md
 ```
 
