@@ -137,7 +137,7 @@ Completed Rides:       5,895,654  (23.2% offer-to-ride)
 ├── rideit_drivers_activity(May-June).xlsx
 ├── RideIt_Data_Analysis_Report.pbix            # Power BI dashboard
 ├── sql/
-│   └── rideit_analysis.sql                     # 10 SQL queries: funnel, segments, churn, scoring
+│   └── rideit_sql_analysis.sql                     # 10 SQL queries: funnel, segments, churn, scoring
 └── README.md
 ```
 
