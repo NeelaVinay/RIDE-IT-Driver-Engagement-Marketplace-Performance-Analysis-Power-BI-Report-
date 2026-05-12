@@ -159,7 +159,9 @@ Completed Rides:       5,895,654  (23.2% offer-to-ride)
 -- SETUP (MySQL)
 
 -- ─────────────────────────────────────────────
+
 -- Note: Replace with your actual table creation or LOAD DATA syntax
+
 -- LOAD DATA INFILE 'rideit_drivers.csv' INTO TABLE drivers FIELDS TERMINATED BY ',';
 
 Power BI: Open `.pbix` in Power BI Desktop → use slicers for country, service type, month.
