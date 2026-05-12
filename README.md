@@ -109,8 +109,10 @@ Engagement Score =
 ```
 Offers Sent:          25,380,625  (100%)
     ↓ 28.4% accepted
+    
 Bookings:              7,204,586
     ↓ 7.8% cancelled by driver, 10.6% by pax
+    
 Completed Rides:       5,895,654  (23.2% offer-to-ride)
 ```
 
